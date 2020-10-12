@@ -11,7 +11,6 @@ This project requires Python 3 and the requests pkg
 
  '''
  pinenv install
- pinenv run "python find_meteors.py"
+ pinenv run "python meteor\find_meteors.py"
  '''
 
- 
